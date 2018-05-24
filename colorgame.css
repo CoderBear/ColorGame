@@ -22,3 +22,7 @@ h1 {
 #colorDisplay {
 	text-transform: uppercase;
 }
+
+span {
+	color: white;
+}
