@@ -56,7 +56,7 @@ resetButton.addEventListener("click", function(){
 	
 	messageDisplay.textContent = "";
 	resetButton.textContent = "NEW COLOR";
-	h1.style.backgroundColor = "#232323";
+	h1.style.backgroundColor = "steelblue";
 });
 
 colorDisplay.textContent = pickedColor;
