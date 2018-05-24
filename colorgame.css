@@ -23,6 +23,15 @@ h1 {
 	text-transform: uppercase;
 }
 
-span {
+/* span {
 	color: white;
+} */
+
+#stripe {
+	background: white;
+	height: 30px;
+	text-align: center;
+	color: black;
 }
+
+#stripe.
